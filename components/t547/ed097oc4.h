@@ -1,7 +1,7 @@
 #pragma once
 
 #include <driver/gpio.h>
-
+#include "esphome/core/hal.h"
 
 /* Config Reggister Control */
 #define CFG_DATA GPIO_NUM_23
