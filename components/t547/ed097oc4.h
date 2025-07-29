@@ -1,6 +1,6 @@
 #pragma once
 
-#include <driver/gpio.h>
+#include "esphome/core/component.h"
 #include "esphome/core/hal.h"
 
 /* Config Reggister Control */
