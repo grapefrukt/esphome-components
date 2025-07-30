@@ -1,7 +1,5 @@
 #pragma once
 
-#include "esphome/core/component.h"
-
 /* Config Reggister Control */
 #define CFG_DATA GPIO_NUM_23
 #define CFG_CLK GPIO_NUM_18
